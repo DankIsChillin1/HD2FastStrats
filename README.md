@@ -18,4 +18,4 @@ Drop a follow https://www.tiktok.com/@dankischillin
 
 Credit to https://github.com/nvigneux for icon
 
-Tutorials in discord
+Tutorials in discord https://discord.gg/apEtmZta
