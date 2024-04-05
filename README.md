@@ -10,7 +10,7 @@ XL is for stream deck XL
 
 Lite is for the mini
 
-+ is for the stream deck +
+(+) for the stream deck +
 
 3x5 is for 3x5
 
