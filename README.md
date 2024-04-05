@@ -15,6 +15,5 @@ Lite is for the mini
 3x5 is for 3x5
 
 Credit to https://github.com/nvigneux for icon
-Drop a follow @dankischillin
-
+Drop a follow https://www.tiktok.com/@dankischillin
 Tutorials in discord
